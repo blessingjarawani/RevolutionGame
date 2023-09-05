@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevolutionGame.Library", "RevolutionGame.Library\RevolutionGame.Library.csproj", "{B9394403-5A45-4B1F-8984-029A1ADBCEDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevolutionGame.Tests", "RevolutionGame.Tests\RevolutionGame.Tests.csproj", "{294FDF6E-C515-43C8-B24C-3141E0E29DFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9394403-5A45-4B1F-8984-029A1ADBCEDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9394403-5A45-4B1F-8984-029A1ADBCEDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9394403-5A45-4B1F-8984-029A1ADBCEDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9394403-5A45-4B1F-8984-029A1ADBCEDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{294FDF6E-C515-43C8-B24C-3141E0E29DFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{294FDF6E-C515-43C8-B24C-3141E0E29DFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{294FDF6E-C515-43C8-B24C-3141E0E29DFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{294FDF6E-C515-43C8-B24C-3141E0E29DFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BB7FBB9-F9FB-47DB-ACCA-274F1C715A8C}
+	EndGlobalSection
+EndGlobal
